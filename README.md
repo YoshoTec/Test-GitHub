@@ -1,6 +1,11 @@
 # Titulo de mi proyecto
 **Proyecto de GIT de prueba**
 
+Este proyecto es con el fin de  
+hacer pruebas con **Git** y **GitHub**
+
+> Study
+
 [//]:# (Listas enumeradas)
 ### Listas enumeradas
 
